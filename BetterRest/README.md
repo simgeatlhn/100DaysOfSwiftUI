@@ -1,4 +1,4 @@
-# Better Rest
+# Better Rest ☕️
 
 # Purpose of Application
 
