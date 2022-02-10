@@ -1,4 +1,4 @@
-# WeSplit 💵💰
+# WeSplit 
 
 # Purpose of the application:
 
