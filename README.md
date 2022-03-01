@@ -7,7 +7,7 @@ You can find the details of each project in the README.md file.
 
 
 -	WeSplit
--	Unit Conversion App (First Challenge)
+-	Unit Conversion App 
 -	Guess The Flag
 -	RockPaperScissors
 -	BetterRest
@@ -16,6 +16,10 @@ You can find the details of each project in the README.md file.
 -	EducationGame
 -	iExpense
 -	Moonshot
+-	Calculator
+-	Cupcake Corner
+-	Drawing
+-	Gain Color
 
  
  
