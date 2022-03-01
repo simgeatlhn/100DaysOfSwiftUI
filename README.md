@@ -5,5 +5,17 @@ I also share each day of the process on my Twitter account 👉🏻 https://twit
 
 You can find the details of each project in the README.md file.
 
+
+-	WeSplit
+-	Unit Conversion App (First Challenge)
+-	Guess The Flag
+-	RockPaperScissors
+-	BetterRest
+-	WordScramble
+-	Animations
+-	EducationGame
+-	iExpense
+-	Moonshot
+
  
  
