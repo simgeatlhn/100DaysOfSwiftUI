@@ -7,13 +7,12 @@ You can find the details of each project in the README.md file.
 
 
 -	WeSplit
--	Unit Conversion App 
+-	Unit Conversion
 -	Guess The Flag
 -	RockPaperScissors
 -	BetterRest
 -	WordScramble
 -	Animations
--	EducationGame
 -	iExpense
 -	Moonshot
 -	Calculator
