@@ -19,6 +19,7 @@ You can find the details of each project in the README.md file.
 -	Cupcake Corner
 -	Drawing
 -	Gain Color
+-	Core Data Project (filtering)
 
  
  
